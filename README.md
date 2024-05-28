@@ -14,4 +14,4 @@ ejemplo:
 #### Encabezado de nivel 4
 ##### Encabezado de nivel 5
 ###### Encabezado de nivel 6
-####### Encabezado de nivel 7
+###### Encabezado de nivel 7
