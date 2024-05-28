@@ -8,10 +8,10 @@ para poder dar enfasis a los contenidos de la documentacion podemos utilizar los
 para marcar alguna seccion o subseccion estos marcan utilizando el simbolo #, entre menos repeticiones tenag mayor tamaño  e importancia tendra el texto
 
 ejemplo:
-#Encabezado de nivel 1
-##Encabezado de nivel 2
-###Encabezado de nivel 3
-####Encabezado de nivel 4
-#####Encabezado de nivel 5
-######Encabezado de nivel 6
-#######Encabezado de nivel 7
+# Encabezado de nivel 1
+## Encabezado de nivel 2
+### Encabezado de nivel 3
+#### Encabezado de nivel 4
+##### Encabezado de nivel 5
+###### Encabezado de nivel 6
+####### Encabezado de nivel 7
