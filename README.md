@@ -5,7 +5,7 @@ practica de clase para comenzar a utilizar github como herramienta para el desar
 
 ### Encabezado (Headings)
 para poder dar enfasis a los contenidos de la documentacion podemos utilizar los encabezados (headings)
-para marcar alguna seccion o subseccion estos marcan utilizando el simbolo #, entre menos repeticiones tenag mayor tamaño  e importancia tendra el texto
+para marcar alguna seccion o subseccion estos marcan utilizando el simbolo #, entre menos repeticiones tenas mayor tamaño  e importancia tendra el texto
 
 ejemplo:
 # Encabezado de nivel 1
