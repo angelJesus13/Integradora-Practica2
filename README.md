@@ -68,4 +68,40 @@ Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta c
 Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion 
 </p>
 
+### 4. Texto enfatizado (Bold, Italic, Bold/Italic)
+Si el texto  que deseamos enfatizar se encuentra de un parrafo, podemos utilizar algunos trucos para ubicarlos en la documentacion 
+
+###  Texto en Negrita  (Bold)
+Para poner el texto en negrita esto debera ser encerrado entre dobles **
+
+Ejemplo:
+
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto **Texto Importante** Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+
+### Texto Cursiva italic (Italic)
+Algunas veces es necesario marcar resaltar algunas secciones o textos en cursivas para que el lector detecto el texto importante, dentro del maquetado estandar Markdown lo podemos realizar ubicando el texto entre 
+
+Ejemplo :
+
+Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto *Texto* Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+
+### Texto en Negrita y Cursiva (Bold y Italic)
+ de igual manera podemos unir los estilos de **negrita** y *cursiva* para realizar los textos que consideremos importantes dentro de la documentacion de nuestros proyectos de software utilizando un triple asterisco 
+
+ Ejemplo: 
+
+ Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto ***Texto*** Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+
+
+ ### Subrayado 
+
+Algunas veces necesitaremos subrayar el texto dentro de la documentacion para ello, si bien markdown no tiene un atajo o codificacion rapida, podemos utilizar el estilo que usa el estandar de HTML 
+
+Ejemplo:
+
+ Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto <ins>Texto </ins> Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
+
+
+
 
