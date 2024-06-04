@@ -25,3 +25,47 @@ Si desea marcar una separacion mas visual de contenidos pordemos utilizarlos ind
 Ejemplo:
 ---
 Esta es muy similar a un lag de = <HR> en HTML
+
+
+
+### 3.Parrafos (paragraphs)
+son utilizados para representar grandes selecciones de texto que describen  detalladamente las selecciones de la documentacion del proyecto
+
+Ejemplo:
+
+Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1
+Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1
+Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 Este texto pertenece al parrafo 1 
+
+Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2
+Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2
+Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2
+Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2
+Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2
+Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2
+Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2 Este texto pertenece al parrafo 2
+
+Lo que en una pagina utilizaremos usando la etiqueta  < p >
+
+tambien podemos aplicar estilos basicos de alineacion :
+
+Este parrafo esta alineado a la izquierda por defecto este parrafo esta alineado a la izquierda por defecto este parrafo
+Este parrafo esta alineado a la izquierda por defecto este parrafo esta alineado a la izquierda por defecto este parrafo
+Este parrafo esta alineado a la izquierda por defecto este parrafo esta alineado a la izquierda por defecto este parrafo
+
+<p align ="right">
+Este parrafo esta utilizando la propiedad de alineacion Este parrafo esta utilizando la propiedad de alineacion
+Este parrafo esta utilizando la propiedad de alineacion Este parrafo esta utilizando la propiedad de alineacion
+Este parrafo esta utilizando la propiedad de alineacion Este parrafo esta utilizando la propiedad de alineacion Este parrafo esta utilizando la propiedad de alineacion
+</p>
+
+<p align = "center">
+Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion 
+Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion Este parrafo esta centrado usando la propiedad de alineacion 
+</p>
+
+<p align = "Justify">
+Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion Este parrafo esta justificado utilizando la propiedad de alineacion 
+</p>
+
+
