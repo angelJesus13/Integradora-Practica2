@@ -107,7 +107,7 @@ Ejemplo:
 Estos elementos son utilizados para resaltar instrucciones especificas para la instalacion, configuracion y/o inicializacion  o mostrar secciones de codigo fuente. Se maqueta iniciando el texto con  un simbolo de mayor que
 (/>)
 
-**EJEMPL0:**
+**EJEMPLO:**
 
 Para listar carpetas y archivos desde una terminal de sistemas operativos windows debemoss ingresar el comando:
 
@@ -115,8 +115,6 @@ C:/dir
 
 Despues oprimimos la tecla "Enter".
 Tambien podemos ingresar textos multilinea
-
-**EJEMPLO:**
 
 
 **EJEMPLO:**
@@ -136,3 +134,24 @@ Y si deseamos iniciar viñetas para enlazar podemos utilizar el caracter  - dent
 
 > C:/Program files/MySQL Server 8.0/bin/mysql  -u root -p password < respaldo.sql
 
+
+### 6. LISTAS ORDENADAS Y DESRDENADAS 
+
+Si es nuestra documentacion necesitamos incluir informacion de modo de lista, un elemento tras otro
+podemos hacerlo utilizando los números con un punto decimal si deseamos ordenar o un guion
+medio - si solo queremos una viñeta
+
+**EJEMPLO:**
+para crear tu primer repositorio en github deberas:
+
+\5. contar cuenta de github.
+
+1. Dar click en el boton **Nuevo Repositorio**
+2. Asignarle un nombre a tu repositorio, por ejemplo: *"practica03-3a"*
+8. Asignarle un nivel privacidad entre
+ - **publico:** si quieres que este disponible para todos los usuarios-
+ - **privado:** si deseas solo a quien tu decidas pueden y colaborar con tu proyecto-
+5. Definir si incluye un archivo descrpcion  llamado: *Readne.n*
+50. Definir si habra exclusiones de archivo a traves  del archivo: *-gitgnore*
+3. Guardar los cambios
+   
