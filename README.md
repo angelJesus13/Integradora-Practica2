@@ -160,7 +160,7 @@ para crear tu primer repositorio en github deberas:
  Las ligas son utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizandi los corchetes [], inmediatamente despues pondremos la ligaa de referencia entre parentesis ()
 
  **EJEMPLO:**
-Mi buscador favorito es: [Google (https://www.google.com.mx/)]
+Mi buscador favorito es: [Google.](https://www.google.com.mx/)]
 
   pero si desamos poner ligas directas o un correo electronico podemos utilizarlas los simbolos < >
 **EJEMPLOS*:*
