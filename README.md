@@ -103,5 +103,36 @@ Ejemplo:
  Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto <ins>Texto </ins> Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto TextoTexto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto
 
 
+### 5 cuadros de codigo o reseñas (BLOCKQUOTES)
+Estos elementos son utilizados para resaltar instrucciones especificas para la instalacion, configuracion y/o inicializacion  o mostrar secciones de codigo fuente. Se maqueta iniciando el texto con  un simbolo de mayor que
+(/>)
 
+**EJEMPL0:**
+
+Para listar carpetas y archivos desde una terminal de sistemas operativos windows debemoss ingresar el comando:
+
+C:/dir
+
+Despues oprimimos la tecla "Enter".
+Tambien podemos ingresar textos multilinea
+
+**EJEMPLO:**
+
+
+**EJEMPLO:**
+>Aquí se ingresa un conjunto de instrucciones
+> para el usuario como instalar el
+> software que hemos diseñado
+>
+
+Y si deseamos iniciar viñetas para enlazar podemos utilizar el caracter  - dentro del texto a documentar
+
+**EJEMPLO: PASOS PARA INSTALAR LA BASE DE DATOS**
+
+> - Descargar MySQL server del sitio oficial.
+> - Instalar el sistema de base de datos, definiendo puerto y contraseña para el usuario *root*.
+> - Descargamos el archivo de respaldo de la base de datos (sql).
+> - Restauremos la base de datos usando el comando * mysql *
+
+> C:/Program files/MySQL Server 8.0/bin/mysql  -u root -p password < respaldo.sql
 
