@@ -226,7 +226,7 @@ En ese caso de necesitar la fusion de celdas en columnas usaremos la propiedad *
   <td> Fila 4 celda 1</td>
   <td> Fila 4 celda 2</td>
   <td> Fila 4 celda 3</td>
-  <td> Fila 4 celda 4</td>
+ 
  </tr>
 </table>
 
