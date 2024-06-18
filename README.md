@@ -167,7 +167,7 @@ Mi buscador favorito es: [Google.](https://www.google.com.mx/)]
  Documentacion creada por  **Angel de Jesus Baños Tellez**
  <utxicotepec@edu.mx>
 
- ## **Tablas (Tables)
+ ### 7. Tablas (Tables)
  Si la documentacion lo requiere podemoss presentar informacion en formato de tablas con filas y columnas para maquetas podemos utilizr el caracter | delifitar las columnas y - para delimitar las filas.
 
  **Ejemplo:**
@@ -178,5 +178,23 @@ Mi buscador favorito es: [Google.](https://www.google.com.mx/)]
 | Fila 2 celda 1 | Fila 2 celda 2 | Fila 2 celda 3 | Fila 2 celda 4|
 | Fila 3 celda 1 | Fila 3 celda 2 | Fila 3 celda 3 | Fila 3 celda 4|
 | Fila 4 celda 1 | Fila 4 celda 2 | Fila 4 celda 3 | Fila 4 celda 4|
+
+| Encabezado 1  | Encabezado 2  | Encabezado 3  | Encabezado 4  |
+|---------------|---------------|---------------|---------------|
+| Fila 1 celda 1 | Fila 1 celda 2 | Fila 1 celda 3 | Fila 1 celda 4 |
+| Fila 2 celda 1 | Fila 2 celda 2 |               | Fila 2 celda 4 |
+| Fila 3 celda 1 | Fila 3 celda 2 | Fila 3 celda 3 | Fila 3 celda 4 |
+| Fila 4 celda 1 | Fila 4 celda 2 | Fila 4 celda 3 | Fila 4 celda 4 |
+
+| Encabezado 1  | Encabezado 2  | Encabezado 3  | Encabezado 4  |
+|---------------|---------------|---------------|---------------|
+| Fila 1 celda 1 | Fila 1 celda 2 | Fila 1 celda 3 | Fila 1 celda 4 |
+| Fila 2 celda 1 | Fila 2 celda 2 | Celda más larga de lo normal | Fila 2 celda 4 |
+| Fila 3 celda 1 | Fila 3 celda 2 | Fila 3 celda 3 | Fila 3 celda 4 |
+| Fila 4 celda 1 | Fila 4 celda 2 | Fila 4 celda 3 | Fila 4 celda 4 |
+
+### 8. Imagenes
+
+
 
 En ese caso de necesitar la fusion de celdas en columnas usaremos la propiedad *colspan* del tag <td> y en el caso de necesitar la fusion de filas utilizaremos propiedad *rowspan*
