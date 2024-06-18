@@ -193,8 +193,33 @@ Mi buscador favorito es: [Google.](https://www.google.com.mx/)]
 | Fila 3 celda 1 | Fila 3 celda 2 | Fila 3 celda 3 | Fila 3 celda 4 |
 | Fila 4 celda 1 | Fila 4 celda 2 | Fila 4 celda 3 | Fila 4 celda 4 |
 
-### 8. Imagenes
-
-
 
 En ese caso de necesitar la fusion de celdas en columnas usaremos la propiedad *colspan* del tag <td> y en el caso de necesitar la fusion de filas utilizaremos propiedad *rowspan*
+
+<table border="1">
+    <tr>
+        <th>Nombre</th>
+        <th>Edad</th>
+        <th rowspan="2">Ciudad</th>
+        <th colspan="2">Contacto</th>
+    </tr>
+    <tr>
+        <th colspan="2">Información Adicional</th>
+        <th>Teléfono</th>
+        <th>Email</th>
+    </tr>
+    <tr>
+        <td>Juan Pérez</td>
+        <td>30</td>
+        <td>Madrid</td>
+        <td>123456789</td>
+        <td>juan@example.com</td>
+    </tr>
+    <tr>
+        <td>Maria García</td>
+        <td>25</td>
+        <td>Barcelona</td>
+        <td>987654321</td>
+        <td>maria@example.com</td>
+    </tr>
+</table>
