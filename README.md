@@ -130,7 +130,7 @@ Y si deseamos iniciar viñetas para enlazar podemos utilizar el caracter  - dent
 > - Descargar MySQL server del sitio oficial.
 > - Instalar el sistema de base de datos, definiendo puerto y contraseña para el usuario *root*.
 > - Descargamos el archivo de respaldo de la base de datos (sql).
-> - Restauremos la base de datos usando el comando * mysql *
+> - Restauremos la base de datos usando el comando *mysql*
 
 > C:/Program files/MySQL Server 8.0/bin/mysql  -u root -p password < respaldo.sql
 
@@ -199,34 +199,36 @@ Mi buscador favorito es: [Google.](https://www.google.com.mx/)]
 
 En ese caso de necesitar la fusion de celdas en columnas usaremos la propiedad *colspan* del tag <td> y en el caso de necesitar la fusion de filas utilizaremos propiedad *rowspan*
 
-<table border="1">
-    <tr>
-        <th>Nombre</th>
-        <th>Edad</th>
-        <th rowspan="2">Ciudad</th>
-        <th colspan="2">Contacto</th>
-    </tr>
-    <tr>
-        <th colspan="2">Información Adicional</th>
-        <th>Teléfono</th>
-        <th>Email</th>
-    </tr>
-    <tr>
-        <td>Juan Pérez</td>
-        <td>30</td>
-        <td>Madrid</td>
-        <td>123456789</td>
-        <td>juan@example.com</td>
-    </tr>
-    <tr>
-        <td>Maria García</td>
-        <td>25</td>
-        <td>Barcelona</td>
-        <td>987654321</td>
-        <td>maria@example.com</td>
-    </tr>
+<table>
+  <tr>
+    <th>Encabezado 1</th>
+    <th>Encabezado 2</th>
+    <th>Encabezado 3</th>
+    <th>Encabezado 4</th>
+  </tr>
+ <tr>
+  <td> Fila 1 celda 1</td>
+  <td> Fila 1 celda 2</td>
+  <td> Fila 1 celda 3</td>
+  <td> Fila 1 celda 4</td>
+ </tr>
+ <tr>
+  <td> Fila 2 celda</td>
+  <td colspan=3 align="center"> Fila 2 Celda 2 </td>
+ </tr>
+ <tr>
+  <td rowspan=3>Fila 3 celda 1</td>
+  <td> Fila 3 celda 2</td>
+   <td> Fila 3 celda 3</td>
+   <td> Fila 3 celda 4</td>
+ </tr>
+ <tr>
+  <td> Fila 4 celda 1</td>
+  <td> Fila 4 celda 2</td>
+  <td> Fila 4 celda 3</td>
+  <td> Fila 4 celda 4</td>
+ </tr>
 </table>
-
 
 ### 8. Images
 Para agregar una imagen a nuestro repositorio usamos la direccion absoluta donde alamacenamos el archivo dentro de nuestro repositorio
