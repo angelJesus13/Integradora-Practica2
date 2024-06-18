@@ -227,5 +227,5 @@ En ese caso de necesitar la fusion de celdas en columnas usaremos la propiedad *
 
 ### 8. Images
 Para agregar una imagen a nuestro repositorio se uso la sintaxis de HTML 5 y usamos la direccion absoluta donde alamacenamos el archivo dentro de nuestro repositorio
-<img src="https://github.com/angelJesus13/Integradora-Practica2/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%5B1%5D.png" alt="LOGO EMPRESA" style="width:300px;">
+<img src="https://github.com/angelJesus13/Integradora-Practica2/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%5B1%5D.png" alt="LOGO EMPRESA" style="width:100px; heigth:150px;">
 
