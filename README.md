@@ -1,4 +1,4 @@
-# Integradora-Practica2
+# Integradora-Practica2 
 practica de clase para comenzar a utilizar github como herramienta para el desarrollo colaborativo control de versiones y documentacion del proyecto integrador de la asignatura de integradora
 
 ## comandos basicos  para el maquetado
@@ -7,7 +7,7 @@ practica de clase para comenzar a utilizar github como herramienta para el desar
 para poder dar enfasis a los contenidos de la documentacion podemos utilizar los encabezados (headings)
 para marcar alguna seccion o subseccion estos marcan utilizando el simbolo #, entre menos repeticiones tenas mayor tamaño  e importancia tendra el texto
 
-ejemplo:
+ejemplo: EJEMPLOS DE ENCABEZADOS BASICOS
 # Encabezado de nivel 1
 ## Encabezado de nivel 2
 ### Encabezado de nivel 3
